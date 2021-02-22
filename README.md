@@ -1,6 +1,9 @@
 # Laboratorio No. 2
 ## Fabián Arnoldo López Méndez
 
+
+Click [here]:https://www.youtube.com/watch?v=2sjqTHE0zok&feature=emb_logo
+
 **Git:**
 Moldear cada folder, cada comanda. Como se relacionan cada una de ellas. 
 Root: 
@@ -24,6 +27,8 @@ Author.String
 Message. String 
 Snapshot: tree 
 Es un modelo limpio y simple. 
+
+![commit-and-tree]("imágenes/commit-and-tree.png")
 
 * ¿Cómo almacena y aborda datos reales?
 •	Type object = blob | tree | commit
@@ -104,3 +109,5 @@ ls: cannot access '.git': No such file or directory
 fabia@DESKTOP-IKOJEBP MINGW64 ~
 $ git.comitt
 bash: git.comitt: command not found
+
+La idea del Git Bash es revisar los documentos del computador, pero desde la estructura, por esa razón, los comandos anteriores lo demuestran. Se pueden agregar documentos, archivos, e información desde este software para que el usuario desde su interfaz normal, lo pueda visualizar. 
